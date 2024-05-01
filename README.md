@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 
 ### Numbers
+![Masudur Rahman's Stats](https://github-readme-stats.vercel.app/api?username=masud001&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![Masudur Rahman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=masud001&theme=darcula&hide_border=true)
+
+![Masudur Rahman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masud001&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 [![Masudur Rahman's Streak](https://github-readme-streak-stats.herokuapp.com?user=masud001&theme=tokyonight)](https://git.io/streak-stats)
 ### Where to find me
 
