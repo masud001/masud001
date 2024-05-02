@@ -1,5 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Man Technologist" width="25" height="25" /> Hello There!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Man Technologist" width="25" height="25" /> Hello There...!</h1>
 <div align="center">
   <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -21,8 +21,7 @@
   </div>
 </div>
 
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,18 +32,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
+<br>
+<div align="center">
+  <h2>🚀 Numbers 🚀</h2> 
+</div>
+<br>
+<div align="center">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=masud001&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+</div>
+<br>
+<div align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=masud001&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+  <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=masud001&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Streak" />
+</div>
 
-### Numbers
-![Masudur Rahman's Stats](https://github-readme-stats.vercel.app/api?username=masud001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Masudur Rahman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masud001&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-[![Masudur Rahman's Streak](https://github-readme-streak-stats.herokuapp.com?user=masud001&theme=tokyonight)](https://git.io/streak-stats)
 
-### Where to find me
 
+
+<div align="center">
+ <h2>🌍 You Will Find Me Here... 🌍 </h2>
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masud001/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Masudur10)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/masud.rahman001)
+
+</div>
+
+
 
 
