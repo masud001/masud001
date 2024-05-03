@@ -24,7 +24,7 @@
 <samp>
  <h3>Here are some ideas to get you started:</h3>
 
-I am a Front-End Developer with a huge love for React.js, TypeScript, Next.js, TailwindCSS Currently, ***I'm open to work and employment opportunities***.
+I am a **Front-End Developer** with a huge love for React.js, TypeScript, Next.js, TailwindCSS Currently, ***I'm open to work and employment opportunities***.
 
 
 - 🔭 I’m currently coding for React Native app to publish Google Play Store.
