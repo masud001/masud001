@@ -64,7 +64,7 @@ I am a **Front-End Developer** with a huge love for React.js, TypeScript, Next.j
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masud001/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Masudur10)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/masud.rahman001)
-[![Facebook](https://img.shields.io/badge/<masud.rahman762>-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)](masud.rahman762)
+[![Facebook](https://img.shields.io/badge/<masud.rahman762>-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/AzsAGPNGhVWH)
 
 </div>
 
