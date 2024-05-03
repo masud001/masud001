@@ -13,7 +13,6 @@
   	<img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
   	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
@@ -25,14 +24,17 @@
 <samp>
  <h3>Here are some ideas to get you started:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a Front-End Developer with a huge love for React.js, TypeScript, Next.js, TailwindCSS Currently, ***I'm open to work and employment opportunities***.
+
+
+- 🔭 I’m currently coding for React Native app to publish Google Play Store.
+- 🌱 I’m Currently nurturing my growth in the verdant fields of React Native, cultivating a deep understanding of System Architecture for Frontend, and delicately enhancing my skills in the art of web performance optimization. 
+- 👯 I’m currently open for work and employment opportunities (Remote).
+- 💬 Ask me about JavaScript, React.js, Next.js, TailwindCSS.
+- 📫 I am just one mail away [madhnagar@gmail.com]
+- 😄 Pronouns: He
+- ⚡ Fun fact: I Love Roaming Around.
+- :wrench: Tools - VSCode.
 
 </samp>
 
@@ -56,7 +58,7 @@
 
 
 <div align="center">
- <h2>🌍 You Will Find Me Here 🌍 </h2>
+ <h2>🌍 Where to find me 🌍 </h2>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masud001/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Masudur10)
