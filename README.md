@@ -12,9 +12,10 @@
   	<img src="https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
   	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white"/>
+  	<img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white"/>
+  	<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=lat-square&logo=SASS&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+	<img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black" />
   	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
