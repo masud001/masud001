@@ -6,6 +6,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
   	<img src="https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB"/>
+	<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   	<img src="https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white"/>
