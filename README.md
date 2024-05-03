@@ -2,7 +2,7 @@
 <h2> Hey! Nice to see you. 🙋‍♂️</h2>
 <div align="left">
   <samp>
-	<h3>Currently Technology Stacks I am working with:</h3>
+	<h3>Exploring the delightful realms of technology stacks!</h3>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
   	<img src="https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB"/>
