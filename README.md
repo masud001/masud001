@@ -32,10 +32,10 @@
 <samp>
  <h3>Here are some ideas to get you started:</h3>
 
-I am a **Front-End Developer** with a huge love for React.js, TypeScript, Next.js, TailwindCSS Currently, ***I'm open to work and employment opportunities***.
+I am a **Front-End Developer** with a huge love for React.js, TypeScript, Next.js, and TailwindCSS Currently, ***I'm open to work and employment opportunities***.
 
 
-- 🔭 I’m currently coding for React Native app to publish Google Play Store.
+- 🔭 I’m currently coding for a React Native app to publish Google Play Store.
 - 🌱 I’m Currently nurturing my growth in the verdant fields of React Native, cultivating a deep understanding of System Architecture for Frontend, and delicately enhancing my skills in the art of web performance optimization. 
 - 👯 I’m currently open for work and employment opportunities (Remote).
 - 💬 Ask me about JavaScript, React.js, Next.js, TailwindCSS.
