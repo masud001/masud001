@@ -48,7 +48,13 @@ I am a **Front-End Developer** with a huge love for React.js, TypeScript, Next.j
 
 <br>
 <div align="center">
-  <h2> ![🚀 Numbers 🚀](https://profile-counter.glitch.me/masud001/count.svg) </h2> 
+  <h2> 🚀 Numbers 🚀 </h2> 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/masud001/count.svg" alt="" /></td>
+  </tr>
+</table>
 </div>
 <br>
 <div align="center">
