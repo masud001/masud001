@@ -12,7 +12,6 @@
   	<img src="https://img.shields.io/badge/Vite-593D88?style=for-the-badge&logo=vite&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   	<img src="https://img.shields.io/badge/materialUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
   	<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
