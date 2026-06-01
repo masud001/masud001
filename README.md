@@ -7,6 +7,9 @@
   	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   	<img src="https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Hydrogen-1C1C1C?style=for-the-badge&logo=shopify&logoColor=96BF48"/>
+	<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/>
 	<img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	<img src="https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Vite-593D88?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -22,9 +25,6 @@
 	<img src="https://img.shields.io/badge/stylus-hotpink?style=for-the-badge&logo=stylus&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Hydrogen-1C1C1C?style=for-the-badge&logo=shopify&logoColor=96BF48"/>
-	<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   </samp>
 </div>
@@ -32,17 +32,25 @@
 <samp>
  <h3>Here are some ideas to get you started:</h3>
 
-I am a **Front-End Developer** with a huge love for React.js, TypeScript, Next.js, and TailwindCSS Currently, ***I'm open to work and employment opportunities***.
+I am a ***Front-End & Shopify Developer*** with extensive experience building modern, scalable, and high-performance web applications and eCommerce stores. 
+
+I specialize in ***Shopify, Shopify Hydrogen, Remix, React.js, Next.js, TypeScript, JavaScript, and TailwindCSS*** helping businesses create fast, conversion-focused, and user-friendly digital experiences.
+
+Currently, I am open to ***remote work opportunities***, freelance projects, and long-term collaborations.
 
 
-- 🔭 I’m currently coding for a React Native app to publish Google Play Store.
-- 🌱 I’m Currently nurturing my growth in the verdant fields of React Native, cultivating a deep understanding of System Architecture for Frontend, and delicately enhancing my skills in the art of web performance optimization. 
-- 👯 I’m currently open for work and employment opportunities (Remote).
-- 💬 Ask me about JavaScript, React.js, Next.js, TailwindCSS.
-- 📫 I am just one mail away [madhnagar@gmail.com]
-- 😄 Pronouns: He
-- ⚡ Fun fact: I Love Roaming Around.
-- :wrench: Tools - VSCode.
+## 👨‍💻 A Little About Me
+
+* 🚀 Building modern web and mobile experiences with React, Next.js, Shopify, and React Native.
+* 📱 Currently working on a React Native application for Google Play Store deployment.
+* 🌱 Deepening my expertise in Frontend Architecture, System Design, and Performance Engineering.
+* 🤝 Open to remote work opportunities, freelance contracts, and exciting collaborations.
+* 💡 Passionate about creating scalable, high-performance, and user-friendly applications.
+* 💬 Let's talk about JavaScript, TypeScript, React.js, Next.js, Shopify, Hydrogen, Remix, and TailwindCSS.
+* 📫 Reach me anytime: **[madhnagar@gmail.com](mailto:madhnagar@gmail.com)**
+* 🛠️ Favorite tools: VS Code, Git, GitHub, Chrome DevTools, Figma.
+* 🌎 Outside of coding, I enjoy traveling and exploring new places.
+
 
 </samp>
 
