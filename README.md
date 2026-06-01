@@ -7,21 +7,24 @@
   	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   	<img src="https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+	<img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Vite-593D88?style=for-the-badge&logo=vite&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  	<img src="https://img.shields.io/badge/materialUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-	<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+	<img src="https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
+  	<img src="https://img.shields.io/badge/materialUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+	<img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white"/>
+	<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
   	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-	<img src="https://img.shields.io/badge/stylus-hotpink.svg?style=for-the-badge&logo=stylus&logoColor=white"/>
+	<img src="https://img.shields.io/badge/stylus-hotpink?style=for-the-badge&logo=stylus&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Hydrogen-1C1C1C?style=for-the-badge&logo=shopify&logoColor=96BF48"/>
+	<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   </samp>
 </div>
@@ -73,8 +76,8 @@ I am a **Front-End Developer** with a huge love for React.js, TypeScript, Next.j
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masud001/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Masudur10)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/masud.rahman001)
-[![Facebook](https://img.shields.io/badge/<masud.rahman762>-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/AzsAGPNGhVWH)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/maasud001)
+[![Team](https://img.shields.io/badge/%3Cmasud.rahman762%3E-00AFF0?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/AzsAGPNGhVWH)
 
 </div>
 
