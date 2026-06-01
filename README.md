@@ -66,12 +66,12 @@ Currently, I am open to ***remote work opportunities***, freelance projects, and
 </div>
 <br>
 <div align="center">
-	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=masud001&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+	<img height="50%" width="auto" src ="https://github-readme-stats.azharlihan.com/api?username=masud001&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
 </div>
 <br>
 <div align="center">
   <img height="70%" width="415" src="https://github-readme-streak-stats.herokuapp.com?user=masud001&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Streak" />
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=masud001&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+  <img height="50%" width="auto" src ="https://github-readme-stats.azharlihan.com/api/top-langs/?username=masud001&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 
