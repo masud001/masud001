@@ -84,7 +84,8 @@ Currently, I am open to ***remote work opportunities***, freelance projects, and
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masud001/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Masudur10)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/maasud001)
-[![Team](https://img.shields.io/badge/%3Cmasud.rahman762%3E-00AFF0?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/AzsAGPNGhVWH)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801709036155)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=masud.rahman762)
 
 </div>
 
