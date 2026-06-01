@@ -1,6 +1,5 @@
 
 <h2> Hey! Nice to see you. 🙋‍♂️</h2>
-![](https://komarev.com/ghpvc/?username=masud001&label=PROFILE+VIEWS)
 <div align="left">
   <samp>
 	<h3>Exploring the delightful realms of technology stacks!</h3>
@@ -61,7 +60,7 @@ Currently, I am open to ***remote work opportunities***, freelance projects, and
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/masud001/count.svg" alt="" /></td>
+    <td><img src="https://komarev.com/ghpvc/?username=masud001&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="Profile Views" /></td>
   </tr>
 </table>
 </div>
